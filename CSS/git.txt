@@ -14,3 +14,8 @@ __Git Repeat__
 git add .
 git commit -m "message"
 git push 
+
+
+__github pages__
+any static website can be deployed by github pages__
+repository/setting/pages/deploy from branch
