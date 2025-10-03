@@ -1,0 +1,16 @@
+git init -> to create a new repository at userend
+git add . -> to add all files /folder into repository
+git commit -m "initial commit"  -> to save the files
+git remote add origin https://github.com/theroshan143/fsd_26.git  -> to link witrh github
+git branch -M main  -> t switch to main branch
+git push -u origin main  -> to upload main branch to github
+
+
+
+
+
+
+__Git Repeat__
+git add .
+git commit -m "message"
+git push 
